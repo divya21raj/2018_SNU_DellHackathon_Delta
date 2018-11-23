@@ -1,0 +1,6 @@
+[submodule "Delta-Frontend"]
+	path = Delta-Frontend
+	url = https://github.com/ss616/2018_SNU_Hackathon_Delta
+[submodule "Delta-Backend"]
+	path = Delta-Backend
+	url = https://github.com/abhesrivas/Delta-Backend
